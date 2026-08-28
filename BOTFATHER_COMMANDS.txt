@@ -1,0 +1,16 @@
+start - Ingresso nel Campo delle Sincronicità
+sincronia - Registra e analizza una sincronicità
+risonanze - Vedi le sincronicità custodite
+campo - Naviga il Campo con la coscienza aperta
+tesi - La tesi dell'Interconnessione Quantica
+strati - I livelli di realtà e le etichette
+p5p6 - Le due leggi fondamentali
+tieni_aperto - Custodisci una possibilità che risuona
+lista - Vedi le possibilità aperte
+azione - Registra un atto vero e verificabile
+etichetta - Classifica un pensiero negli strati
+stato - Il tuo stato nel Campo
+registro - Registro epistemico completo
+aiuto - Elenco completo dei comandi
+ping - Verifica la presenza del Campo
+annulla - Esci da un flusso in corso
